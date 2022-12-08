@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Zhan Tao Lin",
+      "titles": [ "Data Analysis", "Web Developer"],
       "social": [
         {
           "name": "github",
@@ -29,24 +29,9 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
+          "level": "95"
         },
         {
           "name": "Bootstrap",
@@ -54,14 +39,34 @@
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "70"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "90"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "85"
+        },
+        {
+          "name": "C",
+          "class": "devicon-c-plain",
+          "level": "70"
         },
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",
-          "level": "60"
+          "level": "80"
         }
       ]
     }

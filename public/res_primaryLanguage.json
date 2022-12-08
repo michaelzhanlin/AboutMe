@@ -1,52 +1,31 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello",
+      "description": "👋 I'm Michael Lin. I am a Game and Web Developer. I currently attend the University of Toronto. I ❤️ Food. I started learning to code when I was 17 years old because I wanted to develop my own game in Roblox. Over time, I have gained a wealth of experience designing and developing mobile and web applicaitons. Love gaming as much as I do? Let's talk about how awesome they are! We can code while playing video games!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
-        "experience": "Experience"
+        "experience": "Education & Experience"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Simon Game",
+        "startDate": "2022",
+        "description": "Pattern memorization game similiar to the one you can find at HumanBenchmark.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/simon/img1.png"
         ],
-        "url": "",
+        "url": "https://michaelzhanlin.github.io/SimonGame/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,63 +34,90 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Drumming Set",
+        "startDate": "2022",
+        "description": "Playable drumset with sounds.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/Drum/img1.png"
         ],
-        "url": "https://github.com",
+        "url": "https://michaelzhanlin.github.io/Drum-Set/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Dice-Game",
+        "startDate": "2022",
+        "description": "Two player dice game. Player with the higher value wins.",
+        "images": [
+          "images/portfolio/Dice/img1.png"
+        ],
+        "url": "https://michaelzhanlin.github.io/Dice-Game/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Shop For Cheap",
+        "title": "Amazon FBA and Retail Arbitrage",
+        "years": "10.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Work"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Fullfilling Orders",
+          "Inventory Management",
+          "Customer Service"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Beaver Creek Kids Club",
+        "title": "Tutor",
+        "years": "10.2022 - present",
         "mainTech": [
-          "Angular 7/8"
+          "Work"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Teaching Students Math and English"
+        ]
+      },
+      {
+        "company": "University of Toronto",
+        "title": "HBSc Math and Economics",
+        "years": "9.2018 - present",
+        "mainTech": [
+          "School"
+        ],
+        "technologies": [
+          "Computer Science I & II",
+          "Regression Analysis",
+          "Money and Banking",
+          "Economic Development",
+          "Economics of Organization and Management"
         ]
       }
     ]
